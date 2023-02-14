@@ -16,7 +16,7 @@ console.log(name);
 const country = "Ukraine";
 console.log(country);
 
-let people = 2;
+let people = 2e6;
 console.log(people);
 
 const stadium = true;
