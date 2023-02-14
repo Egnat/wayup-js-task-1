@@ -10,8 +10,8 @@
     - Есть ли футбольный стадион (boolean [ true(да) / false(нет) ])
 */
 
-let name = "Simferopol";
-console.log(name);
+let city_name = "Simferopol";
+console.log(city_name);
 
 const country = "Ukraine";
 console.log(country);
